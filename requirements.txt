@@ -3,3 +3,4 @@ demucs
 torch
 torchaudio
 ffmpeg-python
+gunicorn
